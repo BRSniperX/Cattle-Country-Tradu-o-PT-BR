@@ -1,4 +1,5 @@
-<img width="1920" height="1080" alt="0100a5b021446000_2026-10-10_10-39-51-283" src="https://github.com/user-attachments/assets/e4eb8906-5deb-4462-92ff-0c663cddfb16" />
+<img width="2048" height="768" alt="Cattle Country_ Tradução PT-BR" src="https://github.com/user-attachments/assets/3a50c0ac-5d68-4850-a4c6-f0f282be81a9" />
+
 # Cattle Country — Tradução PT-BR v1.0 - Switch
 
 
