@@ -20,7 +20,7 @@ Primeira versão completa da tradução de **Cattle Country** para português do
 | | |
 |---|---|
 | Versão do jogo | **1.0.9** (atualização `v589824`) — obrigatória |
-| Title ID | `0100A5B021446800` |
+| Title ID | `0100A5B021446000` |
 | Plataformas | Switch com Atmosphère · emuladores |
 
 > ⚠️ O patch substitui o executável (`exefs/main`). Em qualquer outra versão do jogo ele não funciona e o jogo pode não abrir.
@@ -30,15 +30,15 @@ Primeira versão completa da tradução de **Cattle Country** para português do
 **Switch:** extraia `Cattle-Country-PTBR-v1.0-Switch.zip` na raiz do cartão SD.
 
 ```
-SD:/atmosphere/contents/0100A5B021446800/exefs/main
-SD:/atmosphere/contents/0100A5B021446800/romfs/Content/...
+SD:/atmosphere/contents/0100A5B021446000/exefs/main
+SD:/atmosphere/contents/0100A5B021446000/romfs/Content/...
 ```
 
 **Emulador:** botão direito no jogo → *Abrir local dos dados de mod* → extraia `Cattle-Country-PTBR-v1.0-Emulador.zip`.
 
 ```
-load/0100A5B021446800/Cattle Country PT-BR/exefs/main
-load/0100A5B021446800/Cattle Country PT-BR/romfs/Content/...
+load/0100A5B021446000/Cattle Country PT-BR/exefs/main
+load/0100A5B021446000/Cattle Country PT-BR/romfs/Content/...
 ```
 
 No jogo: **Configurações → Idioma → Português** (ocupa o lugar do Français).
